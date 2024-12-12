@@ -49,7 +49,7 @@ https://github.com/dumkast/conf_dz2
 
 Запуск программы через командную строку:
 
-![image](https://github.com/user-attachments/assets/f5dde82b-6273-4720-8fc7-96e7cf979950)
+![image](https://github.com/user-attachments/assets/cdbad91f-bfbe-4f28-b144-897560b7f084)
 
 
 Результаты тестирования:
