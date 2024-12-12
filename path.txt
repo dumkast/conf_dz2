@@ -1,0 +1,2 @@
+C:\Users\tzimb\AppData\Roaming\npm\mmdc.cmd
+C:\Users\tzimb\config\dz2\visual\git_repository
